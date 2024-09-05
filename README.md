@@ -1,6 +1,6 @@
 Este é um projeto de gerenciamento de tarefas desenvolvido com React e Firebase. A aplicação permite que os usuários façam login, cadastrem-se e acessem a área de administração (/admin) para criar, editar e concluir tarefas. Todas as operações são persistidas no banco de dados do Firebase.
 
-Link do projeto em produção: [Texto do link](https://todo-auth-react-firebase.netlify.app/)
+Link do projeto em produção: (https://todo-auth-react-firebase.netlify.app/)
 
 ## Funcionalidades
 
